@@ -58,4 +58,4 @@ If you're into solving problems with code, data, or design, let's chat.
 I’m always up for collaboration, mentoring, or just sharing what we’ve learned.
 
 🌐 [Portfolio](https://suchi-portfolio-palette.lovable.app/)
-💼 [LinkedIn]([your_linkedin_url_here](https://www.linkedin.com/in/suchij/))
+💼 [LinkedIn]((https://www.linkedin.com/in/suchij/))
