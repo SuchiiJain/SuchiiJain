@@ -30,7 +30,7 @@ Together, they let me explore, explain, and improve. Whether it’s a fraud dete
 
 * Building **interactive data apps** that simplify decision-making
 * Exploring **ML models** for risk, ranking, and pattern recognition
-* Designing dashboards and tools with **real user focus** (like [my latest Bollywood Music dashboard](your_project_link_here))
+* Designing dashboards and tools with **real user focus** (like [my latest Bollywood Music dashboard]((https://github.com/SuchiiJain/Bollywood-Music-Analytics-Dashboard))
 * Collaborating at **hackathons**, learning from every experience
 
 ---
