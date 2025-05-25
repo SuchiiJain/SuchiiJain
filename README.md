@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Suchi Jain
+## 👋 Hi, I'm \[Your Name]
 
 ### 📍 Computer Science @ The University of Texas at Dallas
 
@@ -30,7 +30,7 @@ Together, they let me explore, explain, and improve. Whether it’s a fraud dete
 
 * Building **interactive data apps** that simplify decision-making
 * Exploring **ML models** for risk, ranking, and pattern recognition
-* Designing dashboards and tools with **real user focus** (like [my latest Bollywood Music dashboard]((https://github.com/SuchiiJain/Bollywood-Music-Analytics-Dashboard)))
+* Designing dashboards and tools with **real user focus** (like [my latest Bollywood Music dashboard]())
 * Collaborating at **hackathons**, learning from every experience
 
 ---
@@ -54,8 +54,8 @@ Google | IBM | Microsoft | Meta | Tableau
 
 ### 🤝 Let’s connect
 
-If you're into solving problems with code, data, or design, let's chat.
+If you're into solving problems with code, data, or design — let's chat.
 I’m always up for collaboration, mentoring, or just sharing what we’ve learned.
 
-🌐 [Portfolio](https://suchi-portfolio-palette.lovable.app/)
-💼 [LinkedIn]((https://www.linkedin.com/in/suchij/))
+🌐 [Portfolio](your_portfolio_link_here)
+💼 [LinkedIn](your_linkedin_url_here)
