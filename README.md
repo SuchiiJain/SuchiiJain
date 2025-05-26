@@ -1,4 +1,4 @@
-## 👋 Hi, I'm \[Your Name]
+## 👋 Hi, I'm \Suchi Jain
 
 ### 📍 Computer Science @ The University of Texas at Dallas
 
