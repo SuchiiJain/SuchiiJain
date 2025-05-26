@@ -38,9 +38,13 @@ Together, they let me explore, explain, and improve. Whether it’s a fraud dete
 ### 🛠 Tech Toolbox
 
 **Languages:** Python, SQL, R, C/C++, Java, JavaScript
+
 **Libraries/Frameworks:** Pandas, Seaborn, Matplotlib, Plotly, TensorFlow, LightGBM, Django, React
+
 **Tools & Platforms:** Power BI, Tableau, Oracle Analytics, Snowflake, Looker, Streamlit, Figma, GitHub, Mendix
+
 **Cloud + DBs:** MySQL, PostgreSQL, BigQuery, Databricks, NoSQL, Cloud Dataflow
+
 **Other:** Agile, Kanban, API Integration, LSTM, BERT, ETL, OSEMN, Clerk Auth, Vertex AI
 
 ---
