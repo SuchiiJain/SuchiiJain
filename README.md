@@ -52,6 +52,7 @@ Together, they let me explore, explain, and improve. Whether it’s a fraud dete
 ### 📚 Certified By
 
 Google | IBM | Microsoft | Meta | Tableau
+
 (Certifications in Data Analytics, Project Management, Business Intelligence, Cloud Tools)
 
 ---
