@@ -30,7 +30,7 @@ Together, they let me explore, explain, and improve. Whether it’s a fraud dete
 
 * Building **interactive data apps** that simplify decision-making
 * Exploring **ML models** for risk, ranking, and pattern recognition
-* Designing dashboards and tools with **real user focus** (like [my latest Bollywood Music dashboard]())
+* Designing dashboards and tools with **real user focus** (like [my latest Bollywood Music dashboard](https://suchiijain-bollywood-music-analytics-dashboard-app-eehocg.streamlit.app/))
 * Collaborating at **hackathons**, learning from every experience
 
 ---
@@ -57,5 +57,5 @@ Google | IBM | Microsoft | Meta | Tableau
 If you're into solving problems with code, data, or design — let's chat.
 I’m always up for collaboration, mentoring, or just sharing what we’ve learned.
 
-🌐 [Portfolio](your_portfolio_link_here)
-💼 [LinkedIn](your_linkedin_url_here)
+🌐 [Portfolio](https://suchi-portfolio-palette.lovable.app/)
+💼 [LinkedIn](https://www.linkedin.com/in/suchij/)
